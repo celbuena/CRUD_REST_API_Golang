@@ -1,0 +1,9 @@
+{
+  "database": {
+    "name":"db_lawencon_test",
+    "username":"root",
+    "password": "admin",
+    "port": "3306",
+    "host": "localhost"
+  }
+}
